@@ -1,6 +1,6 @@
 <h1>TileMatcher</h1>
 <h2> A Pygame Project</h2>
- <video width="320" height="240" controls>
+ <video width="320" height="240" autoplay>
   <source src="video.mp4" type="video/mp4">
 </video> 
 
